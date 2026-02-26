@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Lil Miquela and the Blurred Line Between Human and CGI",
+    "excerpt": "How a computer-generated influencer secured brand deals with Prada and Calvin Klein while amassing millions of human followers.",
+    "category": "Virtual Influencers",
+    "tag": "Virtual Influencers",
+    "readTime": "8 min",
+    "timestamp": "2026-02-26T10:30:00",
+    "image": "https://images.unsplash.com/photo-1618172193622-ae2d025f4032?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/lil-miquela-blurred-line-between-human-cgi"
+  },
+  {
+    "title": "The Uncanny Valley of Digital Celebrity",
+    "excerpt": "Why audiences form genuine emotional connections with virtual personalities and what this means for the future of endorsement.",
+    "category": "Virtual Influencers",
+    "tag": "Virtual Influencers",
+    "readTime": "7 min",
+    "timestamp": "2026-02-25T14:15:00",
+    "image": "https://images.unsplash.com/photo-1635348587976-82d9ca1f7672?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/uncanny-valley-digital-celebrity"
+  },
+  {
+    "title": "Algorithmic Feeds vs. Chronological Friends",
+    "excerpt": "How platform changes to content discovery are reshaping our sense of connection and community online.",
+    "category": "Social Media",
+    "tag": "Social Media",
+    "readTime": "9 min",
+    "timestamp": "2026-02-24T09:45:00",
+    "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/algorithmic-feeds-vs-chronological-friends"
+  },
+  {
+    "title": "The Great Deplatforming Debate",
+    "excerpt": "Examining the consequences when social networks ban public figures and the ripple effects on free expression.",
+    "category": "Social Media",
+    "tag": "Social Media",
+    "readTime": "10 min",
+    "timestamp": "2026-02-23T16:20:00",
+    "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/great-deplatforming-debate"
+  },
+  {
+    "title": "From Appointment Viewing to Bingeing, Then Back Again",
+    "excerpt": "How streaming platforms are reintroducing weekly releases to combat churn and build anticipation.",
+    "category": "Streaming Culture",
+    "tag": "Streaming Culture",
+    "readTime": "6 min",
+    "timestamp": "2026-02-22T11:10:00",
+    "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/appointment-viewing-bingeing-again"
+  },
+  {
+    "title": "The Streaming Wars: How Many Subscriptions Can One Household Handle?",
+    "excerpt": "Analyzing subscription fatigue and the return of ad-supported tiers in the battle for viewers.",
+    "category": "Streaming Culture",
+    "tag": "Streaming Culture",
+    "readTime": "7 min",
+    "timestamp": "2026-02-21T13:40:00",
+    "image": "https://images.unsplash.com/photo-1586899028174-e7098604235b?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/streaming-wars-subscription-fatigue"
+  },
+  {
+    "title": "Digital Fashion: The Rise of Clothing You Can't Touch",
+    "excerpt": "Why brands like Gucci and Nike are selling virtual sneakers and digital dresses for real money.",
+    "category": "Digital Fashion",
+    "tag": "Digital Fashion",
+    "readTime": "8 min",
+    "timestamp": "2026-02-20T10:05:00",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-fashion-rise-clothing-cant-touch"
+  },
+  {
+    "title": "Dressing Your Avatar: The Billion-Dollar Virtual Wardrobe Economy",
+    "excerpt": "How Fortnite, Roblox, and Zepeto are creating a new generation of fashion consumers who only shop digitally.",
+    "category": "Digital Fashion",
+    "tag": "Digital Fashion",
+    "readTime": "7 min",
+    "timestamp": "2026-02-19T15:30:00",
+    "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/dressing-avatar-billion-dollar-virtual-wardrobe"
+  },
+  {
+    "title": "Beyond Gaming: How Esports Built a Global Spectator Sport",
+    "excerpt": "From stadium sellouts to franchised leagues, the professionalization of competitive gaming continues.",
+    "category": "Esports",
+    "tag": "Esports",
+    "readTime": "9 min",
+    "timestamp": "2026-02-18T12:25:00",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/beyond-gaming-esports-global-spectator-sport"
+  },
+  {
+    "title": "The Life of a Pro Gamer: Training, Travel, and Burnout",
+    "excerpt": "Inside the grueling schedule of esports athletes and what the industry is doing to protect player wellbeing.",
+    "category": "Esports",
+    "tag": "Esports",
+    "readTime": "8 min",
+    "timestamp": "2026-02-17T17:50:00",
+    "image": "https://images.unsplash.com/photo-1542751110-97427f1491dc?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/life-pro-gamer-training-travel-burnout"
+  },
+  {
+    "title": "The Meme Lifecycle: From Reddit to Mainstream and Back",
+    "excerpt": "Tracking how internet jokes are born, co-opted by brands, and eventually retired by the communities that created them.",
+    "category": "Meme Culture",
+    "tag": "Meme Culture",
+    "readTime": "6 min",
+    "timestamp": "2026-02-16T09:15:00",
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/meme-lifecycle-reddit-mainstream-back"
+  },
+  {
+    "title": "Memes as Political Protest: When Humor Becomes Resistance",
+    "excerpt": "How authoritarian regimes struggle to combat the spread of dissent through shareable, satirical images.",
+    "category": "Meme Culture",
+    "tag": "Meme Culture",
+    "readTime": "7 min",
+    "timestamp": "2026-02-15T14:30:00",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/memes-political-protest-humor-resistance"
+  },
+  {
+    "title": "The Creator Economy: Making a Living Outside the 9-to-5",
+    "excerpt": "How platforms like Substack, Patreon, and YouTube are enabling independent creators to monetize their audiences directly.",
+    "category": "Creator Economy",
+    "tag": "Creator Economy",
+    "readTime": "10 min",
+    "timestamp": "2026-02-14T11:40:00",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/creator-economy-making-living-outside-9-to-5"
+  },
+  {
+    "title": "The Middle Class of the Creator Economy",
+    "excerpt": "For every viral sensation, thousands earn a sustainable living. Meet the micro-influencers flying under the radar.",
+    "category": "Creator Economy",
+    "tag": "Creator Economy",
+    "readTime": "8 min",
+    "timestamp": "2026-02-13T16:15:00",
+    "image": "https://images.unsplash.com/photo-1611162616305-c69d3fa6fbe0?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/middle-class-creator-economy"
+  },
+  {
+    "title": "Virtual Worlds: Where We Work, Play, and Connect",
+    "excerpt": "Exploring the persistent digital spaces where millions now spend their time and money.",
+    "category": "Virtual Worlds",
+    "tag": "Virtual Worlds",
+    "readTime": "9 min",
+    "timestamp": "2026-02-12T10:50:00",
+    "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/virtual-worlds-work-play-connect"
+  },
+  {
+    "title": "Building Communities in the Metaverse",
+    "excerpt": "From virtual book clubs to live concerts, how social interactions are evolving inside digital spaces.",
+    "category": "Virtual Worlds",
+    "tag": "Virtual Worlds",
+    "readTime": "7 min",
+    "timestamp": "2026-02-11T13:20:00",
+    "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/building-communities-metaverse"
+  },
+  {
+    "title": "NFT Art: Beyond the Hype to Real Utility",
+    "excerpt": "How digital artists are using blockchain technology to prove authenticity and earn royalties on secondary sales.",
+    "category": "NFT Art",
+    "tag": "NFT Art",
+    "readTime": "8 min",
+    "timestamp": "2026-02-10T15:45:00",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/nft-art-beyond-hype-real-utility"
+  },
+  {
+    "title": "The Environmental Impact of Digital Art",
+    "excerpt": "Examining the energy consumption of blockchain technology and the shift toward more sustainable alternatives.",
+    "category": "NFT Art",
+    "tag": "NFT Art",
+    "readTime": "7 min",
+    "timestamp": "2026-02-09T12:10:00",
+    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/environmental-impact-digital-art"
+  },
+  {
+    "title": "Digital Privacy: You Are the Product",
+    "excerpt": "Understanding how your data is collected, sold, and used to target you across the internet.",
+    "category": "Digital Privacy",
+    "tag": "Digital Privacy",
+    "readTime": "9 min",
+    "timestamp": "2026-02-08T09:30:00",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-privacy-you-are-product"
+  },
+  {
+    "title": "Taking Back Control: Privacy Tools You Should Be Using",
+    "excerpt": "From VPNs to encrypted messaging, a practical guide to reclaiming your digital footprint.",
+    "category": "Digital Privacy",
+    "tag": "Digital Privacy",
+    "readTime": "8 min",
+    "timestamp": "2026-02-07T14:55:00",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/taking-back-control-privacy-tools"
+  },
+  {
+    "title": "Online Activism: Hashtags vs. Real-World Change",
+    "excerpt": "Evaluating the effectiveness of digital campaigns in driving tangible political and social outcomes.",
+    "category": "Online Activism",
+    "tag": "Online Activism",
+    "readTime": "10 min",
+    "timestamp": "2026-02-06T11:20:00",
+    "image": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/online-activism-hashtags-vs-real-world-change"
+  },
+  {
+    "title": "Slacktivism or Solidarity? The Psychology of Sharing",
+    "excerpt": "Why we share causes online and whether performative support translates to meaningful action.",
+    "category": "Online Activism",
+    "tag": "Online Activism",
+    "readTime": "7 min",
+    "timestamp": "2026-02-05T16:40:00",
+    "image": "https://images.unsplash.com/photo-1577962917302-b4f4b674ad0e?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/slacktivism-solidarity-psychology-sharing"
+  },
+  {
+    "title": "Virtual Events: The Hybrid Future of Conferences",
+    "excerpt": "How COVID permanently changed professional gatherings and what organizers are doing to engage remote attendees.",
+    "category": "Virtual Events",
+    "tag": "Virtual Events",
+    "readTime": "8 min",
+    "timestamp": "2026-02-04T10:15:00",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/virtual-events-hybrid-future-conferences"
+  },
+  {
+    "title": "Networking in VR: Making Business Connections Without Handshakes",
+    "excerpt": "Navigating professional relationships in virtual spaces and the etiquette of avatar introductions.",
+    "category": "Virtual Events",
+    "tag": "Virtual Events",
+    "readTime": "6 min",
+    "timestamp": "2026-02-03T13:50:00",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/networking-vr-business-connections-without-handshakes"
+  },
+  {
+    "title": "Digital Storytelling: New Narratives for New Platforms",
+    "excerpt": "How creators are using TikTok, Instagram, and interactive media to tell stories in innovative ways.",
+    "category": "Digital Storytelling",
+    "tag": "Digital Storytelling",
+    "readTime": "8 min",
+    "timestamp": "2026-02-02T15:25:00",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-storytelling-new-narratives-new-platforms"
+  },
+  {
+    "title": "Transmedia Narratives: Stories That Span Worlds",
+    "excerpt": "When a single story unfolds across games, social media, and video, creating immersive fictional universes.",
+    "category": "Digital Storytelling",
+    "tag": "Digital Storytelling",
+    "readTime": "9 min",
+    "timestamp": "2026-02-01T12:00:00",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/transmedia-narratives-stories-span-worlds"
+  },
+  {
+    "title": "AR Experiences: Enhancing Reality One Layer at a Time",
+    "excerpt": "From Pokemon Go to IKEA furniture placement, how augmented reality is changing our daily interactions.",
+    "category": "AR Experiences",
+    "tag": "AR Experiences",
+    "readTime": "7 min",
+    "timestamp": "2026-01-31T09:45:00",
+    "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/ar-experiences-enhancing-reality-one-layer"
+  },
+  {
+    "title": "AR in Retail: Trying Before Buying Without the Store",
+    "excerpt": "How virtual try-on technology is reducing returns and changing the way we shop for clothes and makeup.",
+    "category": "AR Experiences",
+    "tag": "AR Experiences",
+    "readTime": "6 min",
+    "timestamp": "2026-01-30T14:10:00",
+    "image": "https://images.unsplash.com/photo-1512499617640-c74363d4f5d5?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/ar-retail-trying-before-buying-without-store"
+  },
+  {
+    "title": "Online Learning: The Death of the Traditional Classroom?",
+    "excerpt": "Examining the rise of MOOCs, micro-credentials, and self-directed education in the digital age.",
+    "category": "Online Learning",
+    "tag": "Online Learning",
+    "readTime": "9 min",
+    "timestamp": "2026-01-29T11:30:00",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/online-learning-death-traditional-classroom"
+  },
+  {
+    "title": "The Loneliness of the Online Learner",
+    "excerpt": "Addressing the mental health challenges of remote education and building community in digital classrooms.",
+    "category": "Online Learning",
+    "tag": "Online Learning",
+    "readTime": "7 min",
+    "timestamp": "2026-01-28T15:55:00",
+    "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/loneliness-online-learner"
+  },
+  {
+    "title": "Digital Identity: Who Are You When No One's Watching?",
+    "excerpt": "Exploring the gap between our authentic selves and the personas we present across different platforms.",
+    "category": "Digital Identity",
+    "tag": "Digital Identity",
+    "readTime": "8 min",
+    "timestamp": "2026-01-27T10:20:00",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-identity-who-are-you-no-one-watching"
+  },
+  {
+    "title": "The Rise of Pseudonymity",
+    "excerpt": "Why more users are abandoning real-name policies in favor of anonymous and pseudonymous accounts.",
+    "category": "Digital Identity",
+    "tag": "Digital Identity",
+    "readTime": "7 min",
+    "timestamp": "2026-01-26T13:45:00",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/rise-pseudonymity"
+  },
+  {
+    "title": "VR Spaces: The Next Social Network",
+    "excerpt": "How virtual reality platforms are evolving beyond gaming into spaces for work, therapy, and socialization.",
+    "category": "VR Spaces",
+    "tag": "VR Spaces",
+    "readTime": "9 min",
+    "timestamp": "2026-01-25T16:30:00",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/vr-spaces-next-social-network"
+  },
+  {
+    "title": "Motion Sickness and the VR Accessibility Problem",
+    "excerpt": "The technical and design challenges of making virtual reality comfortable for all users.",
+    "category": "VR Spaces",
+    "tag": "VR Spaces",
+    "readTime": "6 min",
+    "timestamp": "2026-01-24T11:15:00",
+    "image": "https://images.unsplash.com/photo-1626379953822-baec19c3accd?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/motion-sickness-vr-accessibility-problem"
+  },
+  {
+    "title": "Podcast Culture: Why We Love Listening",
+    "excerpt": "The psychology behind audio content and how podcasts have become a companion for lonely tasks.",
+    "category": "Podcast Culture",
+    "tag": "Podcast Culture",
+    "readTime": "7 min",
+    "timestamp": "2026-01-23T09:50:00",
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/podcast-culture-why-we-love-listening"
+  },
+  {
+    "title": "The Podcast Gold Rush: Is There Room for Everyone?",
+    "excerpt": "With millions of shows available, how new creators can break through the noise and find their audience.",
+    "category": "Podcast Culture",
+    "tag": "Podcast Culture",
+    "readTime": "8 min",
+    "timestamp": "2026-01-22T14:25:00",
+    "image": "https://images.unsplash.com/photo-1589903308904-1010c2294adc?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/podcast-gold-rush-room-for-everyone"
+  },
+  {
+    "title": "Digital Minimalism: Reclaiming Attention in the Attention Economy",
+    "excerpt": "Strategies for reducing screen time and building healthier relationships with technology.",
+    "category": "Digital Minimalism",
+    "tag": "Digital Minimalism",
+    "readTime": "8 min",
+    "timestamp": "2026-01-21T12:40:00",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-minimalism-reclaiming-attention"
+  },
+  {
+    "title": "The Dopamine Diet: Fasting from Your Phone",
+    "excerpt": "What happens when you unplug for 30 days and how to reset your brain's reward system.",
+    "category": "Digital Minimalism",
+    "tag": "Digital Minimalism",
+    "readTime": "7 min",
+    "timestamp": "2026-01-20T15:10:00",
+    "image": "https://images.unsplash.com/photo-1546054454-45726-5fc81c8fb4b6?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/dopamine-diet-fasting-from-phone"
+  },
+  {
+    "title": "Social Commerce: Buying Without Leaving the App",
+    "excerpt": "How TikTok, Instagram, and Pinterest are turning content consumption into impulse purchases.",
+    "category": "Social Commerce",
+    "tag": "Social Commerce",
+    "readTime": "6 min",
+    "timestamp": "2026-01-19T10:35:00",
+    "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/social-commerce-buying-without-leaving-app"
+  },
+  {
+    "title": "Livestream Shopping: The QVC of Gen Z",
+    "excerpt": "Why millions are watching and buying from live sellers on platforms like Whatnot and NTWRK.",
+    "category": "Social Commerce",
+    "tag": "Social Commerce",
+    "readTime": "7 min",
+    "timestamp": "2026-01-18T13:55:00",
+    "image": "https://images.unsplash.com/photo-1586882829411-9215c1f624b5?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/livestream-shopping-qvc-gen-z"
+  },
+  {
+    "title": "VR Gaming: Beyond the Headset",
+    "excerpt": "How full-body tracking and haptic suits are creating unprecedented immersion in video games.",
+    "category": "VR Gaming",
+    "tag": "VR Gaming",
+    "readTime": "8 min",
+    "timestamp": "2026-01-17T16:45:00",
+    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/vr-gaming-beyond-headset"
+  },
+  {
+    "title": "The Social VR Experience: Gaming as a Gathering Place",
+    "excerpt": "For many users, VR Chat and Rec Room aren't games—they're where they hang out with friends.",
+    "category": "VR Gaming",
+    "tag": "VR Gaming",
+    "readTime": "7 min",
+    "timestamp": "2026-01-16T11:20:00",
+    "image": "https://images.unsplash.com/photo-1626379921598-4116c522e2ee?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/social-vr-experience-gaming-gathering-place"
+  },
+  {
+    "title": "Retro Tech: Why Gen Z Loves Old Cameras and Vinyl",
+    "excerpt": "The analog revival among digital natives and what it says about our relationship with technology.",
+    "category": "Retro Tech",
+    "tag": "Retro Tech",
+    "readTime": "7 min",
+    "timestamp": "2026-01-15T14:30:00",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/retro-tech-gen-z-old-cameras-vinyl"
+  },
+  {
+    "title": "The CRT Renaissance: Gaming on 90s Hardware",
+    "excerpt": "Why retro gaming enthusiasts are seeking out bulky cathode ray tube TVs for the authentic experience.",
+    "category": "Retro Tech",
+    "tag": "Retro Tech",
+    "readTime": "6 min",
+    "timestamp": "2026-01-14T09:15:00",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/crt-renaissance-gaming-90s-hardware"
+  },
+  {
+    "title": "Gaming as a Spectator Sport",
+    "excerpt": "Why millions prefer watching others play rather than playing themselves, from Twitch to esports arenas.",
+    "category": "Gaming",
+    "tag": "Gaming",
+    "readTime": "8 min",
+    "timestamp": "2026-01-13T12:50:00",
+    "image": "https://images.unsplash.com/photo-1542751110-97427f1491dc?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/gaming-spectator-sport"
+  },
+  {
+    "title": "The Mental Health Benefits of Gaming",
+    "excerpt": "Research on how cooperative play and immersive worlds can reduce stress and build social connections.",
+    "category": "Gaming",
+    "tag": "Gaming",
+    "readTime": "7 min",
+    "timestamp": "2026-01-12T15:35:00",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/mental-health-benefits-gaming"
+  },
+  {
+    "title": "Fan Culture: From Shipping to Conventions",
+    "excerpt": "How passionate fan communities are reshaping the entertainment industry through advocacy and creation.",
+    "category": "Fan Culture",
+    "tag": "Fan Culture",
+    "readTime": "9 min",
+    "timestamp": "2026-01-11T10:40:00",
+    "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/fan-culture-shipping-conventions"
+  },
+  {
+    "title": "The Parasocial Contract",
+    "excerpt": "Understanding the one-sided relationships fans form with creators and the responsibilities that come with fame.",
+    "category": "Fan Culture",
+    "tag": "Fan Culture",
+    "readTime": "8 min",
+    "timestamp": "2026-01-10T14:15:00",
+    "image": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/parasocial-contract"
+  },
+  {
+    "title": "Digital Ethics: Whose Job Is It to Protect Us?",
+    "excerpt": "The moral responsibilities of platforms, governments, and users in creating safe online spaces.",
+    "category": "Digital Ethics",
+    "tag": "Digital Ethics",
+    "readTime": "10 min",
+    "timestamp": "2026-01-09T11:05:00",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/digital-ethics-whose-job-protect-us"
+  },
+  {
+    "title": "Algorithmic Bias and the Fight for Fair AI",
+    "excerpt": "How machine learning systems inherit human prejudices and what's being done to correct them.",
+    "category": "Digital Ethics",
+    "tag": "Digital Ethics",
+    "readTime": "9 min",
+    "timestamp": "2026-01-08T16:20:00",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+    "url": "/articles/algorithmic-bias-fight-fair-ai"
+  }
+]
